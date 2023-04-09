@@ -7,3 +7,46 @@ heavy:      #0111a0
 light:      #e3e5ff
 background: #ffffff
 */
+.body1{
+    background-color: #e6f3ff;
+}
+.bg-color{
+    background-color: #e3e5ff;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+}
+.bienvenida{
+    color: #2977d5;
+}
+.presentado{
+    color: #7898ed;
+}
+.parrafo{
+    color: #b0beff;
+}
+.text-boton{
+    background-color: #547ff5;
+    color: #00ff9d;
+}
+.text-boton:hover{
+    background-color: #00ff9d;
+    color: #547ff5;
+    font-style: italic;
+}
+.sesion{
+    color: #0066ff;
+}
+.esquinas{
+    color: #0111a0;
+    background-color: #b0beff;
+}
+.esquinas:hover{
+    color: #00ff9d;
+    background-color: #0066ff;
+    font-style: italic;
+}
+.nombre{
+    color: #2977d5;
+}
