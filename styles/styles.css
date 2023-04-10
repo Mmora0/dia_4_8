@@ -17,36 +17,52 @@ background: #ffffff
     display: flex;
     justify-content: center;
 }
+.center1{
+    justify-content: center;
+   display: flex;
+}
 .bienvenida{
     color: #2977d5;
+    font-family: 'Carter One', cursive;
 }
 .presentado{
     color: #7898ed;
+    font-family: 'Carter One', cursive;
 }
 .parrafo{
     color: #b0beff;
+    font-family: 'Carter One', cursive;
 }
 .text-boton{
     background-color: #547ff5;
     color: #00ff9d;
+    font-family: 'Koulen', cursive;
 }
 .text-boton:hover{
     background-color: #00ff9d;
     color: #547ff5;
     font-style: italic;
+    font-family: 'Koulen', cursive;
 }
 .sesion{
-    color: #0066ff;
+    color: #5900ff;
 }
 .esquinas{
     color: #0111a0;
     background-color: #b0beff;
+    font-family: 'Carter One', cursive;
 }
 .esquinas:hover{
     color: #00ff9d;
     background-color: #0066ff;
+    font-family: 'Carter One', cursive;
     font-style: italic;
 }
 .nombre{
     color: #2977d5;
+    font-family: 'Carter One', cursive;
+}
+th{
+    color: #0111a0;
+    font-family: 'Carter One', cursive;
 }
